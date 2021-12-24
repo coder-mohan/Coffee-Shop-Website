@@ -209,7 +209,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background:url(../images/home-img.JPEG) no-repeat;
+    background:url(https://github.com/coder-mohan/Coffee-Shop-Website/blob/main/images/home-img.jpeg?raw=true) no-repeat;
     background-size: cover;
     background-position: center;
 }
